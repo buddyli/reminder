@@ -10,3 +10,5 @@ https://www.digicert.com/digicert-root-certificates.htm
 ####HttpClient SSL Guide
 http://hc.apache.org/httpclient-3.x/sslguide.html
 
+####HTML Escape
+http://www.sjyhome.com/html/html-special-characters.html
